@@ -1,0 +1,4 @@
+cmake_minimum_required( VERSION 3.5 )
+project(slambook2)
+add_subdirectory(ch2)
+add_subdirectory(ch3)

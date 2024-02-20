@@ -1,0 +1,5 @@
+**/build
+**/_build
+.cache
+.idea
+cmake-build*
