@@ -3,7 +3,7 @@
 ## 前置准备
 ```
 # 安装依赖
-sudo apt install gcc g++ cmake automake libeigen3-dev libopengl-dev libglx-dev libgl1-mesa-glx freeglut3-dev mesa-common-dev libglew-dev libfmt-dev
+sudo apt install gcc g++ cmake automake libeigen3-dev libopengl-dev libglx-dev libgl1-mesa-glx freeglut3-dev mesa-common-dev libglew-dev libfmt-dev libopencv-dev
 
 # 下载代码
 git clone https://github.com/dengfeng2/slambook2_update.git --recursive
